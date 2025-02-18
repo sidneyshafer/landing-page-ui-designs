@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: 'Rubik', serif;
+    position: relative;
+}
+
+.body-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    filter: opacity(0.2);
+}
+
+.container {
+    width: 1000px;
+    height: 700px;
+    background: linear-gradient(#02D9DE, #131E79);
+    box-shadow: 3px 5px 7px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    z-index: 10;
+}
+
+.container .under-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    filter: opacity(0.1);
+    z-index: -1;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+
+.nav .logo {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 7px;
+    color: #02D9DE;
+    border-radius: 5px;
+}
+
+.nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 0 20px;
+    font-size: 12px;
+    z-index: 500;
+}
+
+.nav button {
+    color: #FFF;
+    background: #4B3190;
+    border: 2px solid #4B3190;
+    padding: 5px 12px;
+    border-radius: 20px;
+    margin-right: 10px;
+    font-family: inherit;
+}
+
+.main {
+    overflow: hidden;
+    width: 900px;
+    height: 500px;
+    position: relative;
+    margin: 2rem auto;
+    border-radius: 10px;
+    box-shadow: 6px 8px 5px rgba(0, 0, 0, 0.2);
+    background-color: #001d3d;
+    color: #FFF;
+    display: flex;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.main h1 {
+    font-size: 3rem;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    width: 25rem;
+}
+
+.main h2 {
+    margin-bottom: 30px;
+}
+
+.main button {
+    color: #FFF;
+    background: transparent;
+    border: 2px solid rgb(222, 179, 251);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: 10px;
+    font-family: inherit;
+}
+
+.main button:nth-child(1) {
+    background: rgb(222, 179, 251);
+    color: #000;
+}
+
+.main h1 span {
+    text-transform: uppercase;
+    color: #02D9DE;
+    border-bottom: 5px solid #02D9DE;
+}
+
+.main img {
+    position: absolute;
+    right: -40px;
+    bottom: -20px;
+    display: block;
+    width: 530px;
+    z-index: 1;
+}
