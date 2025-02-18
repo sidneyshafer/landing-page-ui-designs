@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-/* :root {
+:root {
     --color-1: #CCE9FF;
     --color-2: #FFBE55;
     --color-3: #F7F7F7;
     --color-4: #FCD2B1;
     --color-5: #0B4870;
-} */
+}
 
 * {
     box-sizing: border-box;
@@ -25,32 +25,6 @@ body {
     font-family: 'Poppins', serif;
     position: relative;
     z-index: 2;
-}
-
-body::after {
-    content: '';
-    position: absolute;
-    width: 5rem;
-    top: 0;
-    left: 0;
-    background-color: #0B4870;
-    z-index: 1;
-    height: 100%;
-    filter: blur(2px);
-}
-
-body::before {
-    content: '';
-    position: absolute;
-    width: 50rem;
-    top: -600px;
-    right: -600px;
-    background-color: #F7F7F7;
-    z-index: -1;
-    height: 200%;
-    transform: rotate(-45deg);
-    border-left: 20px solid #FFBE55;
-    filter: blur(2px);
 }
 
 .container {
@@ -78,6 +52,8 @@ body::before {
 .main {
     display: flex;
     margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
     position: relative;
 }
 
@@ -86,7 +62,8 @@ body::before {
 }
 
 .main .main-content h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
+    margin-left: 5px;
 }
 
 .main .main-content p {
@@ -139,4 +116,11 @@ body::before {
 .cards .card:nth-child(1) img {
     width: 130px;
     border-radius: 10px;
+}
+
+.main a {
+    font-size: 12px;
+    display: block;
+    margin: 20px 5px;
+    color: #0B4870;
 }
