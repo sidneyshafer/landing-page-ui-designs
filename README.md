@@ -38,4 +38,4 @@
 ## All Cards Designs
 
 ### Subscription Cards
-![MiRig UI](./04-subscription-cards/assets/demo.png)
+![Subscription Cards UI](./04-subscription-cards/assets/demo.png)
