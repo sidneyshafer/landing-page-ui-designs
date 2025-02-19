@@ -15,8 +15,6 @@ body {
     justify-content: center;
     margin: 0 auto;
     font-family: 'Roboto Flex', serif;
-    position: relative;
-    z-index: 2;
 }
 
 .container {
@@ -25,7 +23,6 @@ body {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     background-color: #f4f4f4;
-    position: relative;
     overflow: hidden;
     display: flex;
 }
