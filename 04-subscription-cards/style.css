@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    background-color: #343a40;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: 'Roboto Flex', serif;
+    position: relative;
+    z-index: 2;
+}
+
+.container {
+    width: 1000px;
+    height: 600px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+}
+
+.cards {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.card {
+    background-color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 450px;
+    width: 290px;
+    padding: 0 20px;
+    border-radius: 5px;
+}
+
+.card h2 {
+    font-size: 2rem;
+}
+
+.card h2 sup {
+    font-size: 16px;
+}
+
+.card h2 span {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.card:nth-child(1) {
+    box-shadow: 
+    0 10px 17px -5px #90dbf4, 
+    3px 3px 5px rgba(225, 225, 225, 0.2);
+}
+
+.card:nth-child(2) {
+    height: 470px;
+    box-shadow: 
+    0 10px 17px -5px #ca7df9, 
+    3px 3px 5px rgba(225, 225, 225, 0.2);
+}
+
+.card:nth-child(3) {
+    box-shadow: 
+        0 10px 17px -5px #ffbf81, 
+        3px 3px 5px rgba(225, 225, 225, 0.2);
+}
+
+.card .title {
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.card:nth-child(1) .title {
+    background: linear-gradient(to left, #d6fffa 50%, #8eecf5 100%);
+}
+
+.card:nth-child(2) .title {
+    color: #FFF;
+    background: linear-gradient(to right, #9e65f9 10%, #f896d8 60%);
+}
+
+.card:nth-child(3) .title {
+    background: linear-gradient(to right, #ffbf81 10%, #ffce70 60%);
+}
+
+.card .main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.card .main-content p {
+    color: #343a40;
+}
+
+.card .main-content p:nth-child(3) {
+    margin-top: 10px;
+}
+
+p.sub-text {
+    font-weight: 600;
+}
+
+.card button {
+    padding: 17px 15px;
+    background: transparent;
+    outline: none;
+    border: 2px solid #333;
+    font-family: inherit;
+    font-size: 15px;
+    border-radius: 10px;
+    margin: 0 10px;
+    margin-top: 20px;
+}
+
+.card:nth-child(2) button {
+    color: #FFF;
+    background: #343a40;
+    border-color: #343a40;
+}
+
+.card .details {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 1rem;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.fa-check {
+    color: #29bf12;
+    margin-right: 5px;
+}
+
+.fa-xmark {
+    color: #d00000;
+    margin-right: 5px;
+}
