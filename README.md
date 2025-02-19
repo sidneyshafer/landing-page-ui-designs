@@ -6,7 +6,7 @@
 * [Landing Page Cards](#landing-pages-cards)
 * [Subscription & Pricing Cards](#subscription--pricing-cards)
 
-## Landing Pages Cards | [LINK](./Landing-Page-Cards)
+## Landing Pages Cards | [Link](./Landing-Page-Cards)
 
 | Project # | Site Name | Repo  |
 | --------- | ----- | ----- |
@@ -29,7 +29,7 @@
 
 ---
 
-## Subscription & Pricing Cards | [LINK](./Subscription-Pricing-Cards)
+## Subscription & Pricing Cards | [Link](./Subscription-Pricing-Cards)
 
 ### UI Design for [01-Cards](./Subscription-Pricing-Cards/01-Cards)
 ![UI Card Design](./Subscription-Pricing-Cards/01-Cards/assets/demo.png)
