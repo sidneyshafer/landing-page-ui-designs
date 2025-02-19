@@ -3,10 +3,11 @@
 
 ## Table of Contents
 
-* [Landing Pages](#landing-pages)
-* [Cards](#cards)
+* [Landing Page Cards](#landing-pages-cards)
+* [Subscription & Pricing Cards](#subscription--pricing-cards)
 
-## Landing Pages
+## Landing Pages Cards | [LINK](./Landing-Page-Cards)
+
 | Project # | Site Name | Repo  |
 | --------- | ----- | ----- |
 | 01 | [Travel Guide](#travel-guide) | [Link](./01-travel-guide) | 
@@ -15,7 +16,7 @@
 
 ---
 
-## All Landing Page Designs
+## All Landing Page Card Designs
 
 ### Travel Guide
 ![Travel Guide UI](./01-travel-guide/assets/demo.png)
@@ -28,14 +29,10 @@
 
 ---
 
-## Cards
-| Project # | Site Name | Repo  |
-| --------- | ----- | ----- |
-| 04        | Subscription Cards |  [Link](./04-subscription-cards) |
+## Subscription & Pricing Cards | [LINK](./Subscription-Pricing-Cards)
 
----
+### UI Design for [01-Cards](./Subscription-Pricing-Cards/01-Cards)
+![UI Card Design](./Subscription-Pricing-Cards/01-Cards/assets/demo.png)
 
-## All Cards Designs
-
-### Subscription Cards
-![Subscription Cards UI](./04-subscription-cards/assets/demo.png)
+### UI Design for [02-Cards](./Subscription-Pricing-Cards/02-Cards)
+![UI Card Design](./Subscription-Pricing-Cards/02-Cards/assets/demo.png)

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    background: linear-gradient(45deg, #ff930a 5%, #f24b04 25%, #884ab2 60%, #471ca8 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: 'Roboto Flex', serif;
+    position: relative;
+    z-index: 2;
+}
+
+.container {
+    width: 1000px;
+    height: 650px;
+    box-shadow: 0 20px 37px -5px rgba(0, 0, 0, 0.3), 0 40px 57px -2px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    background-color: #FFF;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+}
+
+.cards {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.card {
+    background: #2c2a4a;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 15px -3px, rgba(0, 0, 0, 0.5) 0px 6px 8px -5px;
+    color: #FFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 500px;
+    width: 290px;
+    padding: 0 20px;
+    border-radius: 20px;
+}
+
+.card h2 {
+    font-size: 3rem;
+}
+
+.card .title {
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+.card .details {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 1.25rem;
+    font-size: 18px;
+}
+
+.card .details i {
+    margin-right: 5px;
+}
+
+.card button {
+    font-family: inherit;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #2c2a4a;
+    margin: 15px 30px;
+}
