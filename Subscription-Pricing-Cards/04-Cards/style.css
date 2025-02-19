@@ -131,7 +131,3 @@ body {
     border: none;
     font-family: inherit;
 }
-
-.cards .card:nth-child(1) button {
-    background-color: #FFF;
-}
