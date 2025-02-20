@@ -45,3 +45,6 @@
 
 ### UI Design for [05-Cards](./Subscription-Pricing-Cards/05-Cards)
 ![UI Card Design](./Subscription-Pricing-Cards/05-Cards/assets/demo.png)
+
+### UI Design for [06-Cards](./Subscription-Pricing-Cards/06-Cards)
+![UI Card Design](./Subscription-Pricing-Cards/06-Cards/assets/demo.png)

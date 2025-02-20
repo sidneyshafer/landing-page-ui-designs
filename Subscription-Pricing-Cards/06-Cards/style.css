@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: 'Rubik', serif;
+}
+
+.container {
+    width: 1100px;
+    height: 650px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+    background: #f4f4f4;
+    border-radius: 5px;
+    display: flex;
+    z-index: 10;
+}
+
+.cards {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.card {
+    background: #FFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 500px;
+    width: 290px;
+    padding: 0 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);    
+    overflow: hidden;
+}
+
+.heading {
+    border-bottom: 1px solid #073b4c;
+    position: relative;
+    left: -30px;
+    width: 120%;
+    padding: 0 50px;
+    height: 130px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.heading h1 span {
+    font-size: 14px;
+    color: #b4b4b4;
+    font-weight: 400;
+}
+
+.heading small {
+    color: #b4b4b4;
+}
+
+.details ul {
+    list-style: none;
+    text-align: left;
+}
+
+.details ul li {
+    margin-bottom: 10px;
+    font-family: 'Funnel Sans', serif;
+    font-weight: 200;
+}
+
+.details ul li.disabled {
+    color: #b4b4b4;
+}
+
+.details ul li.disabled i {
+    background-color: #b4b4b4;
+}
+
+.details ul li i {
+    margin-right: 10px;
+    background-color: #073b4c;
+    color: #FFF;
+    font-size: 10px;
+    padding: 3px 4px;
+    border-radius: 50%;
+}
+
+.btn {
+    border-top: 1px solid #073b4c;
+    position: relative;
+    left: -30px;
+    top: -10px;
+    width: 120%;
+}
+
+.btn button {
+    margin-top: 25px;
+    font-family: inherit;
+    padding: 15px 50px;
+    border: 1px solid #073b4c;
+    border-radius: 30px;
+}
+
+.card:nth-child(2) button {
+    color: #FFF;
+    background: #073b4c;
+}
+
+.card:nth-child(1) button,
+.card:nth-child(3) button {
+    background: transparent;
+}

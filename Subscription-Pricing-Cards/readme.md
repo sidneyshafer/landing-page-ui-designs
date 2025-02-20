@@ -14,3 +14,6 @@
 
 ## UI Design for [05-Cards](./05-Cards)
 ![05-Cards UI Design](./05-Cards/assets/demo.png)
+
+## UI Design for [06-Cards](./06-Cards)
+![06-Cards UI Design](./06-Cards/assets/demo.png)
