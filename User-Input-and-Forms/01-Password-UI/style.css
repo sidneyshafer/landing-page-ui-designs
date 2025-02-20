@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    background: linear-gradient(#e3f2fd, #bbdefb);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: 'Roboto Flex', serif;
+}
+
+.container {
+    background-color: #f2f6fa;
+    padding: 40px 50px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+.password {
+    position: relative;
+}
+
+.password input {
+    background-color: #FFF;
+    display: block;
+    width: 100%;
+    font-size: 18px;
+    padding: 7px 5px;
+    margin-top: 7px;
+    border: none;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.password input:focus {
+    outline: none;
+}
+
+.password .fa-eye {
+    color: #bbb;
+    display: block;
+    position: absolute;
+    top: 35px;
+    right: 10px;
+    font-size: 14px;
+}
+
+.password .circles {
+    position: absolute;
+    display: flex;
+    gap: 0.2rem;
+    top: 41px;
+    left: 10px;
+}
+
+.password .circles .circle {
+    width: 4px;
+    height: 4px;
+    background-color: #000;
+    border-radius: 50%;
+}
+
+.password .line {
+    position: absolute;
+    top: 33px;
+    left: 43px;
+    background-color: #333;
+    width: 2px;
+    height: 20px;
+}
+
+.details {
+    margin: 30px 0;
+}
+
+.details ul {
+    list-style-type: none;
+}
+
+.details ul li {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.details ul li i {
+    margin-right: 7px;
+}
+
+.fa-check {
+    color: #29bf12;
+}
+
+.fa-xmark {
+    color: #d00000;
+}
+
+button {
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    color: #FFF;
+    background-color: #3da5d9;
+    font-family: inherit;
+    padding: 15px 0;
+    border-radius: 10px;
+}
