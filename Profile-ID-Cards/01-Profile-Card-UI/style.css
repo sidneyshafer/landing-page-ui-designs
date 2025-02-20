@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    background: linear-gradient(#a480cf, #779be7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-family: 'Roboto Flex', serif;
+}
+
+.container {
+    background-color: #f2f6fa;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+    width: 22rem;
+    height: 25rem;
+    position: relative;
+}
+
+.card .img {
+    background-image: url('https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: -20px;
+    left: 75px;
+    border-radius: 20px;
+    position: relative;
+    box-shadow: 
+        0 20px 37px -5px rgba(0, 0, 0, 0.3), 
+        0 40px 57px -2px rgba(0, 0, 0, 0.1);   
+}
+
+.card::after {
+    content: '';
+    position: absolute;
+    top: -20px;
+    left: 75px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgba(119, 155, 231, 0.3);
+}
+
+.details, .heading {
+    text-align: center;
+}
+
+.heading {
+    margin-top: 10px;
+}
+
+.details {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    margin: 20px 30px;
+}
+
+.buttons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.buttons button {
+    width: 100px;
+    margin: 0 20px;
+    border: 1px solid #a480cf;
+    color: #333;
+    background: transparent;
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-family: inherit;
+}
+
+.buttons button:nth-child(1) {
+    background-color: #a480cf;
+    color: #FFF;
+}
+
+small {
+    color: #adb5bd;
+}
+
+.details p {
+    font-weight: 600;
+}
