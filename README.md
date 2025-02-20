@@ -13,7 +13,7 @@
 ## User Input & Forms | [Link](./User-Input-and-Forms)
 
 ### UI Design for [01-Password UI](./User-Input-and-Forms/01-Password-UI)
-![UI Card Design](./User-Input-and-Forms/01-Password-UI/assets/image.png)
+![UI Card Design](./User-Input-and-Forms/01-Password-UI/assets/demo.png)
 
 ---
 
