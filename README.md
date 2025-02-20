@@ -3,10 +3,10 @@
 
 ## Table of Contents
 
-* [Landing Page Cards](#landing-pages-cards)
-* [Subscription & Pricing Cards](#subscription--pricing-cards)
+* [Landing Page Cards](#landing-page-cards--link)
+* [Subscription & Pricing Cards](#subscription--pricing-cards--link)
 
-## Landing Pages Cards | [Link](./Landing-Page-Cards)
+## Landing Page Cards | [Link](./Landing-Page-Cards)
 
 | Project # | Site Name | Repo  |
 | --------- | ----- | ----- |
