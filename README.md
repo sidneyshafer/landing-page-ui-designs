@@ -47,7 +47,7 @@
 ## All Landing Page Card Designs
 
 ### Travel Guide
-![Travel Guide UI](./Landing-Page-Cards/01-Travel-Guide/assets/demo.png)
+![Travel Guide UI](./Landing-Page-Cards/01-Travel-Guide-UI/assets/demo.png)
 
 ### Mining Rig (MIRig)
 ![MiRig UI](./Landing-Page-Cards/02-MIRig/assets/demo.png)
