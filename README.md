@@ -3,14 +3,12 @@
 
 ## Table of Contents
 
-* [User Input & Forms](#user-input--forms)
-* [User Profile & ID Cards](#user-profile--id-cards)
-* [Subscription & Pricing Cards](#subscription--pricing-cards))
-* [Landing Page Cards](#landing-page-cards)
+* [User Input & Forms](#user-input--forms--repo)
+* [User Profile & ID Cards](#user-profile--id-cards--repo)
+* [Subscription & Pricing Cards](#subscription--pricing-cards--repo)
+* [Landing Page Cards](#landing-page-cards--repo)
 
-## User Input & Forms
-
-Quick link to the project [repo](./User-Input-and-Forms)
+## User Input & Forms | [Repo](./User-Input-and-Forms)
 
 <table>
     <tr>
@@ -25,9 +23,7 @@ Quick link to the project [repo](./User-Input-and-Forms)
     </tr>
 </table>
 
-## User Profile & ID Cards
-
-Quick link to the project [repo](./Profile-ID-Cards)
+## User Profile & ID Cards | [Repo](./Profile-ID-Cards)
 
 <table>
     <tr>
@@ -42,9 +38,7 @@ Quick link to the project [repo](./Profile-ID-Cards)
     </tr>
 </table>
 
-## Subscription & Pricing Cards
-
-Quick link to the project [repo](./Subscription-Pricing-Cards)
+## Subscription & Pricing Cards | [Repo](./Subscription-Pricing-Cards)
 
 <table>
     <tr>
@@ -101,9 +95,7 @@ Quick link to the project [repo](./Subscription-Pricing-Cards)
     </tr>
 </table>
 
-## Landing Page Cards
-
-Quick link to the project [repo](./Landing-Page-Cards)
+## Landing Page Cards | [Repo](./Landing-Page-Cards)
 
 <table>
     <tr>
