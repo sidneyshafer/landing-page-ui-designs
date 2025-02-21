@@ -8,61 +8,119 @@
 * [Subscription & Pricing Cards](#subscription--pricing-cards--link)
 * [Landing Page Cards](#landing-page-cards--link)
 
----
+## User Input & Forms | :link: [Repo](./User-Input-and-Forms)
+<table>
+    <tr>
+        <td align="center">
+        <a href="./User-Input-and-Forms/01-Password-UI">
+            <img src="./User-Input-and-Forms/01-Password-UI/assets/demo.png" width="200" alt="01-Password UI" />
+        </a>
+        <br />
+        <br />
+        <a href="./User-Input-and-Forms/01-Password-UI"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>01-Password UI</b></a>
+        </td>
+    </tr>
+</table>
 
-## User Input & Forms | [Link](./User-Input-and-Forms)
+## User Profile & ID Cards | :link: [Repo](./Profile-ID-Cards)
 
-### UI Design for [01-Password UI](./User-Input-and-Forms/01-Password-UI)
-![UI Card Design](./User-Input-and-Forms/01-Password-UI/assets/demo.png)
+<table>
+    <tr>
+        <td align="center">
+        <a href="./Profile-ID-Cards/01-Profile-Card-UI">
+            <img src="./Profile-ID-Cards/01-Profile-Card-UI/assets/demo.png" width="200" alt="01-Profile Card UI" />
+        </a>
+        <br />
+        <br />
+        <a href="./Profile-ID-Cards/01-Profile-Card-UI"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>01-Profile Card UI</b></a>
+        </td>
+    </tr>
+</table>
 
----
+## Subscription & Pricing Cards | :link: [Repo](./Subscription-Pricing-Cards)
 
-## User Profile & ID Cards | [Link](./Profile-ID-Cards)
+<table>
+    <tr>
+        <td align="center">
+            <a href="./Subscription-Pricing-Cards/01-Cards">
+                <img src="./Subscription-Pricing-Cards/01-Cards/assets/demo.png" width="200" alt="01-Cards" />
+            </a>
+            <br />
+            <br />
+            <a href="./Subscription-Pricing-Cards/01-Cards"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>01-Cards</b></a>
+        </td>
+        <td align="center">
+            <a href="./Subscription-Pricing-Cards/02-Cards">
+                <img src="./Subscription-Pricing-Cards/02-Cards/assets/demo.png" width="200" alt="02-Cards" />
+            </a>
+            <br />
+            <br />
+            <a href="./Subscription-Pricing-Cards/02-Cards"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>02-Cards</b></a>
+        </td>
+        <td align="center">
+            <a href="./Subscription-Pricing-Cards/03-Cards">
+                <img src="./Subscription-Pricing-Cards/03-Cards/assets/demo.png" width="200" alt="03-Cards" />
+            </a>
+            <br />
+            <br />
+            <a href="./Subscription-Pricing-Cards/03-Cards"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>03-Cards</b></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="./Subscription-Pricing-Cards/04-Cards">
+                <img src="./Subscription-Pricing-Cards/04-Cards/assets/demo.png" width="200" alt="04-Cards" />
+            </a>
+            <br />
+            <br />
+            <a href="./Subscription-Pricing-Cards/04-Cards"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>04-Cards</b></a>
+        </td>
+        <td align="center">
+            <a href="./Subscription-Pricing-Cards/05-Cards">
+                <img src="./Subscription-Pricing-Cards/05-Cards/assets/demo.png" width="200" alt="05-Cards" />
+            </a>
+            <br />
+            <br />
+            <a href="./Subscription-Pricing-Cards/05-Cards"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>05-Cards</b></a>
+        </td>
+        <td align="center">
+            <a href="./Subscription-Pricing-Cards/06-Cards">
+                <img src="./Subscription-Pricing-Cards/06-Cards/assets/demo.png" width="200" alt="06-Cards" />
+            </a>
+            <br />
+            <br />
+            <a href="./Subscription-Pricing-Cards/06-Cards"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>06-Cards</b></a>
+        </td>
+    </tr>
+</table>
 
-### UI Design for [01-Profile Card UI](./Profile-ID-Cards/01-Profile-Card-UI)
-![UI Card Design](./Profile-ID-Cards/01-Profile-Card-UI/assets/demo.png)
+## Landing Page Cards | :link: [Repo](./Landing-Page-Cards)
 
----
-
-## Subscription & Pricing Cards | [Link](./Subscription-Pricing-Cards)
-
-### UI Design for [01-Cards](./Subscription-Pricing-Cards/01-Cards)
-![UI Card Design](./Subscription-Pricing-Cards/01-Cards/assets/demo.png)
-
-### UI Design for [02-Cards](./Subscription-Pricing-Cards/02-Cards)
-![UI Card Design](./Subscription-Pricing-Cards/02-Cards/assets/demo.png)
-
-### UI Design for [03-Cards](./Subscription-Pricing-Cards/03-Cards)
-![UI Card Design](./Subscription-Pricing-Cards/03-Cards/assets/demo.png)
-
-### UI Design for [04-Cards](./Subscription-Pricing-Cards/04-Cards)
-![UI Card Design](./Subscription-Pricing-Cards/04-Cards/assets/demo.png)
-
-### UI Design for [05-Cards](./Subscription-Pricing-Cards/05-Cards)
-![UI Card Design](./Subscription-Pricing-Cards/05-Cards/assets/demo.png)
-
-### UI Design for [06-Cards](./Subscription-Pricing-Cards/06-Cards)
-![UI Card Design](./Subscription-Pricing-Cards/06-Cards/assets/demo.png)
-
-## Landing Page Cards | [Link](./Landing-Page-Cards)
-
-| Project # | Site Name | Repo  |
-| --------- | ----- | ----- |
-| 01 | [Travel Guide](#travel-guide) | [Link](./Landing-Page-Cards/01-Travel-Guide) | 
-| 02 | [Mining Rig (MIRig)](#mining-rig-mirig) | [Link](./Landing-Page-Cards/02-MIRig) |
-| 03 | [For the Love of Coffee](#for-the-love-of-coffee) | [Link](./Landing-Page-Cards/03-Love-of-Coffee) | 
-
----
-
-## All Landing Page Card Designs
-
-### Travel Guide
-![Travel Guide UI](./Landing-Page-Cards/01-Travel-Guide-UI/assets/demo.png)
-
-### Mining Rig (MIRig)
-![MiRig UI](./Landing-Page-Cards/02-MIRig/assets/demo.png)
-
-### For the Love of Coffee
-![For the Love of Coffee UI](./Landing-Page-Cards/03-Love-of-Coffee/assets/demo.png)
-
----
+<table>
+    <tr>
+        <td align="center">
+            <a href="./Landing-Page-Cards/01-Travel-Guide-UI">
+                <img src="./Landing-Page-Cards/01-Travel-Guide-UI/assets/demo.png" width="200" alt="Travel Guide UI" />
+            </a>
+            <br />
+            <br />
+            <a href="./Landing-Page-Cards/01-Travel-Guide-UI"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>01-Travel Guide UI</b></a>
+        </td>
+        <td align="center">
+            <a href="./Landing-Page-Cards/02-MIRig">
+                <img src="./Landing-Page-Cards/02-MIRig/assets/demo.png" width="200" alt="MIRig UI" />
+            </a>
+            <br />
+            <br />
+            <a href="./Landing-Page-Cards/02-MIRig"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>02-MIRig UI</b></a>
+        </td>
+        <td align="center">
+            <a href="./Landing-Page-Cards/03-Love-of-Coffee">
+                <img src="./Landing-Page-Cards/03-Love-of-Coffee/assets/demo.png" width="200" alt="Love of Coffee UI" />
+            </a>
+            <br />
+            <br />
+            <a href="./Landing-Page-Cards/03-Love-of-Coffee"><img src="./assets/github.svg"/>&nbsp;&nbsp;<b>03-Love of Coffee UI</b></a>
+        </td>
+    </tr>
+</table>
